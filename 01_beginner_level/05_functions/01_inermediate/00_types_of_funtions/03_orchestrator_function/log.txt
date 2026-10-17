@@ -1,0 +1,14 @@
+Operation #1
+Program started
+Validating the email
+Email is valid
+Processing data transformation:
+Data transformation process is completed: {'user_name': 'same2345', 'domain': 'gmail.com'}
+Program ends
+
+Operation #2
+Program started
+Validating the email
+Invalid email entered: rejik
+Program ends
+
