@@ -1,3 +1,11 @@
+import sys
+
+print(sys.path)
+
+'''
+Use path.append() if the module is in another directory
+'''
+
 import module as m
 
 
